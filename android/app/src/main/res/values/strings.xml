@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VitaleAdminAccess</string>
+    <string name="title_activity_main">VitaleAdminAccess</string>
+    <string name="package_name">com.vitale.admin</string>
+    <string name="custom_url_scheme">com.vitale.admin</string>
+</resources>
